@@ -57,7 +57,7 @@ A flight booking Django application written in Python, HTML, CSS & Javascript.
 
 ### Installation
 
-- Install Python3.9 from [here](https://www.python.org/downloads/) manually.
+- Install Python3.11
 - Install project dependencies by running `py -m pip install -r requirements.txt`.
 - Run the commands `py manage.py makemigrations` and `py manage.py migrate` in the project directory to make and apply migrations.
 - Create superuser with `py manage.py createsuperuser`. This step is optional.
